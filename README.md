@@ -1,7 +1,7 @@
 Pre-requisites: for running the web application
 
 Before running the script, make sure you have Selenium WebDriver installed and the necessary browser driver (e.g., ChromeDriver) set up in your environment.
-The IDE, preferably pycharm,
+The IDE, preferably pycharm
 
 For API automation
 
