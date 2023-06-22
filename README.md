@@ -28,11 +28,12 @@ Install the requests library by running pip install requests
 Make sure to replace "YOUR_API_KEY" with your actual OpenWeatherMap API key and "YOUR_STATION_ID" with your desired station ID.
 
 By running this Python script, it will perform the following actions:
+----------------------------------
+- Register a weather station using the OpenWeatherMap API.
 
-Register a weather station using the OpenWeatherMap API.
-Get the information of the newly registered weather station.
-Update the station's name and altitude.
-Delete the weather station and confirm that it has been successfully deleted.
+- Get the information of the newly registered weather station.
+- Update the station's name and altitude.
+- Delete the weather station and confirm that it has been successfully deleted.
 
 link to download the IDE: 
 [This is an external link to download pycharm IDE](https://www.jetbrains.com/pycharm/promo/?source=google&medium=cpc&campaign=14124132465&term=pycharm&content=536947779756&gad=1&gclid=CjwKCAjwv8qkBhAnEiwAkY-ahsolGL5XV6ThVc3Yx9kScW8y2k02q_qYWMSOaCLczBvDzXYszqViohoCJHYQAvD_BwE)
