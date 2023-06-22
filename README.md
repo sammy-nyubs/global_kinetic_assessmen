@@ -1,3 +1,18 @@
+ Getting Started
+---------------
+
+Tools used
+----------
+- Python 3+ `<https://www.python.org/downloads/>`_
+- Selenium `<https://selenium-python.readthedocs.io/installation.html>`_
+- IDE  preferrably pycharm or any
+
+
+The requirements to install Toolium are `3.3+ or higher <http://www.python.org>`_ and
+`pip <https://pypi.python.org/pypi/pip>`_. If you use Python 2.7.9+, you don't need to install pip separately.
+
+
+
 Pre-requisites: for running the web application
 
 Before running the script, make sure you have Selenium WebDriver installed and the necessary browser driver (e.g., ChromeDriver) set up in your environment.
